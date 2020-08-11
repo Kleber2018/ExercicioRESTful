@@ -1,5 +1,24 @@
 # ExercicioRESTful
 
+Servidor do Heroku
+
+https://helo-word.herokuapp.com
+ou
+https://exerciciorestful.herokuapp.com
+
+Requisições GET
+
+Retornar toda lista
+https://exerciciorestful.herokuapp.com/mobile/list/
+
+Retornar um registro
+https://exerciciorestful.herokuapp.com/mobile/list/2/
+
+
+
+
+
+## DOCUMENTAÇÃO
 https://phppot.com/php/php-restful-web-service/
 
 
